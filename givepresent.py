@@ -10,4 +10,4 @@ url = 'http://google.com'
 for line in lines:
 	header = {'User-agent':line}
 	req = urllib2.Request(url,None,header)
-	reply = urllib2.urlopen(req).read()
+	urllib2.urlopen(req).read()
