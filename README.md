@@ -12,3 +12,5 @@ To set up:
 
 Always give the design a border. Otherwise the spacing
 will be ruined.
+
+Send pretty pictures!
